@@ -3,6 +3,11 @@ __pycache__/
 
 ui/react-dashboard/node_modules/
 ui/react-dashboard/.vite/
+ui/react-dashboard/dist/
+
+# Generated migration reports
+outputs/*.json
 
 .DS_Store
 Thumbs.db
+desktop.ini
