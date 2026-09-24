@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+ui/react-dashboard/node_modules/
+ui/react-dashboard/.vite/
+
+.DS_Store
+Thumbs.db
