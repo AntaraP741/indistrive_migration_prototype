@@ -86,10 +86,6 @@ $env:MONGO_DATABASE="your_mongo_database"
 ```powershell
 py main.py
 ```
+## Live Demo
 
-Generated reports are written to:
-
-- `outputs/readiness_report.json`
-- `outputs/postMigrationReport.json`
-
-## Run the dashboard
+[Open the Migration Accelerator dashboard](https://indistrive-migration-prototype-p76v.vercel.app/)
